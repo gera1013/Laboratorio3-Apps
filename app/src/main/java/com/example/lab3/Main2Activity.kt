@@ -31,11 +31,11 @@ class Main2Activity : AppCompatActivity() {
             titulo.text = R.string.info_title1.toString()
             subtitulo.text = R.string.article_subtitle1.toString()
             cuadroTexto.text = R.string.info_text1.toString()
-        } else if(message.equals("A")) {
+        } else if(message == "A") {
             titulo.text = R.string.info_title2.toString()
             subtitulo.text = R.string.article_subtitle2.toString()
             cuadroTexto.text = R.string.info_text2.toString()
-        } else if(message.equals("I")){
+        } else if(message == "I"){
             titulo.text = R.string.info_title3.toString()
             subtitulo.text = R.string.article_subtitle3.toString()
             cuadroTexto.text = R.string.info_text3.toString()
