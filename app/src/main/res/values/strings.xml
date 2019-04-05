@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="text_text">Nombre</string>
+    <string name="editText_text">Ingrese datos</string>
+    <string name="button1_text">Tikal</string>
+    <string name="button2_text">Antigua</string>
+    <string name="button3_text">Izabal</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="info_text1">Tikal, en Petén, alberga la Pirámide maya
+        más alta conocida hasta la fecha y es
+        superada únicamente por \"La Danta\",
+        templo enterrado en El Mirador también
+        en Guatemala.
+        \n\n Las etapas
+        históricas más importantes
+        de los sitios mayas convergen en Tikal,
+        reino restaurado por Ah Cacau o Garra
+        de Jaguar. Sede de templos mayas que
+        sobresalen entre las copas de los
+        árboles de la selva. Tikal es el
+        complejo-ciudad maya más famoso
+        alrededor del mundo y sede de la pirá-
+        mide más alta: el Templo IV de la
+        Serpiente Bicéfala con 65+ metros de
+        altura. A este templo lo supera solo
+        \"La Danta\", al norte de Guatemala en
+        El Mirador (aún bajo trabajos de excavación).
+        \n\n
+        El Parque Nacional Tikal es un área
+        protegida donde la naturaleza y los
+        vestigios arqueológicos son una
+        experiencia única. Tikal puede conocerse en un día completo, a algunos
+        turistas les toma hasta dos. En el lugar
+        encontrará un museo arqueológico que
+        reune maravillosas muestras de cerámica, tallado y esculturas mayas.
+        \n\n
+        El día domingo los turistas de nacionalidad guatemalteca ingresan de manera
+        gratuita al parque. Se puede ingresar
+        el día sábado y el ticket sellado sirve
+        para el día domingo (si no se sale del
+        parque). Desde Tikal podrá visitar
+        Uaxactún, que se encuentra a 24 kilómetros al norte y es un sitio arqueológico de gran belleza y paz. El mismo
+        ticket de ingreso a Tikal sirve para
+        continuar hacia Uaxactún. Tikal se
+        puede visitar todos los días de 7:00 AM a 4:30 PM.
+    </string>
+    <string name="article_subtitle1">Dentro de la densa selva de Petén, se esconde el corazón del Mundo Maya</string>
+    <string name="add_comment">Agregar</string>
+    <string name="comment_add">Ingrese su comentario</string>
+    <string name="info_title1">TIKAL</string>
+    <string name="info_text2">La ciudad de La Antigua Guatemala es
+        una de las más visitadas en América,
+        por lo que es una referencia turística
+        internacional.
+        \n\n
+        Al arribar a esta ciudad, los visitantes
+        pueden apreciar iglesias, templos,
+        edificaciones, calles empedradas y
+        monumentos en ruinas de arquitectura
+        notoriamente colonial, que conservan
+        sus características como si en ellas
+        el tiempo se hubiera detenido, permi-
+        tiendo imaginar el esplendor de aquella
+        lejana época junto con las actividades
+        contemporáneas.
+        \n\n
+        Sobre el Puente del
+        Matasano se encuentra esta escultura,
+        en memoria del Santo Hermano Pedro,
+        dando la bienvenida a turistas. En virtud
+        de que en la época colonial la Iglesia
+        Católica desempeñó una actividad muy
+        significativa al impulsar las tareas de
+        educación, evangelización, catequización, desarrollo de artes y de cultura,
+        la ciudad de Santiago de los Caballeros
+        de Guatemala llegaron frailes y monjas
+        de distintas Órdenes religiosas que, al
+        estar debidamente autorizadas, procedían a instituir Cofradías y construir monasterios e iglesias.
+    </string>
+    <string name="article_subtitle2">La Antigua Guatemala o La Antigua, declarada Patrimonio Cultural de
+        la Humanidad por la UNESCO
+    </string>
+    <string name="info_title2">Antigua Guatemala</string>
+    <string name="info_text3">Izabal es uno de los departamentos
+        de Guatemala que cuenta con una gran
+        cantidadde lugares turísticos de interés
+        tanto para locales como para extranjeros.
+        \n\n
+        Como atractivos naturales, Río Dulce es
+        considerado como uno de los lugares
+        más bellos de la República, por su
+        majestuosidad y belleza que impresionan
+        a personas que lo visitan para admirarlo.
+        \n\n
+        Además, las costas del lago de Izabal
+        y sus playas de arena blanca, como Playa
+        Dorada, hacen de este lugar un gran
+        atractivo para los visitantes; así también,
+        en la bahía de Amatique, Izabal brinda
+        refugio a varios atractivos que reflejan un paisaje tropical
+        y la belleza del mar Caribe, entre ellos:
+        Punta de Palma, Playa la Graciosa, Punta de
+        Manabique y los Cayos del Diablo.
+        \n\n
+        Entre tan compleja trama ecológica, los animales
+        disponen de hábitats adecuados a sus estilos
+        de vida. Tapires y jaguares viven a sus
+        anchas entre tantos pantanos, los manatíes
+        gozan de las marismas tanto como los delfines, rayas y tiburones; el
+        agua para la nutrias está garantizada como el dosel de los árboles para los saraguates. La infinidad de aves se
+        distribuye entre el mar, las playas, los lagos o las selvas.
+    </string>
+    <string name="article_subtitle3">Izabal, paraíso del Atlántico, es un lugar con playas hermosas, mucha
+        naturaleza, diversidad cultural y gran belleza sin igual
+    </string>
+    <string name="info_title3">Izabal</string>
+</resources>
