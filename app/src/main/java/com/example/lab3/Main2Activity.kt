@@ -17,9 +17,12 @@ class Main2Activity : AppCompatActivity() {
         setContentView(R.layout.content_main2)
         setSupportActionBar(toolbar)
         //val binding: = DataBindingUtil.setContentView(this, R.layout.content_main2)
+
+        //Intent para recibir la informacion extra que se envia desde la activity anterior
         val intent : Intent = intent
         val message : String = intent.getStringExtra(MainActivity.EXTRA_MESSAGE)
 
+        //Valores de los diferentes views
         val agregarComentario = findViewById<Button>(R.id.addComentario)
         val comentario = findViewById<TextView>(R.id.comentario)
 
@@ -27,6 +30,8 @@ class Main2Activity : AppCompatActivity() {
         val subtitulo = findViewById<TextView>(R.id.article_subheading)
         val cuadroTexto = findViewById<TextView>(R.id.article)
 
+        //Se asigna el valor que se va a mostrar dependiendo del mensaje que se haya enviado
+        //por medio del intent
         if(message == "T") {
             titulo.text = R.string.info_title1.toString()
             subtitulo.text = R.string.article_subtitle1.toString()
@@ -41,6 +46,8 @@ class Main2Activity : AppCompatActivity() {
             cuadroTexto.text = R.string.info_text3.toString()
         }
 
+        //Listener para el botón de agregar un comentario, se regresa a la actividad inicial
+        //El contenido del Edit Text (el comentario) se despliega en un toast
         agregarComentario.setOnClickListener{
             val mensaje = Toast.makeText(applicationContext, comentario.text.toString(), Toast.LENGTH_SHORT)
             mensaje.show()
